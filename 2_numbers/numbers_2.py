@@ -3,7 +3,7 @@
 #this is an integer
 num_1 = 5
 
-#floats
+#float
 num_2 = 3.0
 
 answer = num_1 / num_2
