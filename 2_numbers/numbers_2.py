@@ -1,6 +1,6 @@
 
 
-#this is a integers
+#this is an integer
 num_1 = 5
 
 #floats
