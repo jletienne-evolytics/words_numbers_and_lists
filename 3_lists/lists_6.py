@@ -4,7 +4,7 @@ numbers = [10,11,12,13,14,15]
 l = len(numbers)
 
 #passing variables into a list
-numbers[l-1]
+print(numbers[l-1])
 
 
 #passing variables into a list
