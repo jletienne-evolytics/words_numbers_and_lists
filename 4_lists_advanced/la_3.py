@@ -12,6 +12,7 @@ numbers.append(39)
 numbers.append(40)
 numbers.append(41)
 
+# look you can append strings
 numbers.append('chase')
 
 #print(sum(numbers))
