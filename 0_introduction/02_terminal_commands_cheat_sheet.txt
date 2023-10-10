@@ -14,9 +14,8 @@ Go back a directory (if needed)
 $ cd ..
 
 Open VS Code, Josh Prock Method (don't forget the period)
-Might as well install whatever it asks you too
+Might as well install whatever it asks
 $ code .
-
 
 Installing the virtual environment (Once when you create)
 $ virtualenv -p python3 venv
