@@ -1,9 +1,9 @@
 
 
-#this is a integers
+#this is an integer
 num_1 = 5
 
-#floats
+#float
 num_2 = 3.0
 
 #integer division
