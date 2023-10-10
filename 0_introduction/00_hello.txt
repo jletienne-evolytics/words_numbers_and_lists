@@ -1,0 +1,55 @@
+
+
+
+Hey welcome to words, numbers, and lists.
+
+Why is this called Words, Numbers, and Lists instead of python training?
+
+Great question. The idea is that you if you already know words (strings), numbers (integers, numeric), and lists (lists, dictionaries, sets), then you have 80% of the knowledge.
+
+
+This course gives you the other 10% of python knowledge.
+
+
+And you'll gain the other 10% by google + trial/error.
+
+
+Focus areas.
+
+How to create a virtual environment (5%)
+    Should I use venv or conda?
+        Venv has more support
+        Conda gives you more control
+    Gonna be honest I just don't care. I personally use venv
+
+    Why use a virtual environment?
+    Each project gets it's own house
+
+How to install packages in your virtual environment (5%)
+    For every project you install numpy (np) and pandas (pd)
+    Do not deviate from these naming conventions. That's a hard rule!
+
+
+
+What we'll learn
+    Words
+    Numbers
+    Lists
+    Lists Advanced (It's okay if you need to do this more than once)
+    Functions
+    Dictionaries
+    Functions
+    Loops (Specifically For Loops)
+    APIs (Requests)
+    Debugging 
+    Try/Except Error Handling
+
+
+Beyond the scope of this learning
+    Github
+    GitHub SSH Keys
+    Classes
+    Sets (idk you already know lists)
+    OAuth Authentication
+    While Loops
+    Advanced Error Logging

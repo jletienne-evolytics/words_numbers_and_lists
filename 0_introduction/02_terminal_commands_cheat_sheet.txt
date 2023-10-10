@@ -1,0 +1,47 @@
+
+Cd (Change directory into your project folder)
+$ cd
+$ cd Desktop
+$ cd words_numbers_and_lists
+
+Making a new folder/directory (mkdir)
+Skip if this is already created
+$ mkdir 1_words
+
+Entering your new folder
+$ cd 1_words
+$ ls
+
+Go back a directory
+$ cd ..
+
+Print working directory
+$ pwd
+
+List Files
+$ ls
+
+
+Open VS Code, Josh Prock Method (don't forget the period)
+Might as well install whatever it asks you too
+$ code .
+
+
+Installing the virtual environment (Once when you create)
+$ virtualenv -p python3 venv
+
+Activate your virtual Environment (Everytime you begin development)
+VS Code this automatically
+$ . venv/bin/activate
+
+Installing numpy package
+$ pip install numpy
+
+Installing pandas package
+$ pip install pandas
+
+Running hello world
+$ python hello_world.py
+
+Deactivate your virtual Environment
+$ deactivate

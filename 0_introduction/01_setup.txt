@@ -1,0 +1,9 @@
+
+Open your terminal
+
+Install VS Code via Homebrew
+$ brew install --cask visual-studio-code
+
+
+If that fails then do this to download homebrew
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
