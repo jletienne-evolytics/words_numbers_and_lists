@@ -4,23 +4,14 @@ $ cd
 $ cd Desktop
 $ cd words_numbers_and_lists
 
-Making a new folder/directory (mkdir)
-Skip if this is already created
-$ mkdir 1_words
-
-Entering your new folder
-$ cd 1_words
-$ ls
-
-Go back a directory
-$ cd ..
-
 Print working directory
 $ pwd
 
 List Files
 $ ls
 
+Go back a directory (if needed)
+$ cd ..
 
 Open VS Code, Josh Prock Method (don't forget the period)
 Might as well install whatever it asks you too
