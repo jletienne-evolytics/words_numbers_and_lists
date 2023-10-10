@@ -5,7 +5,7 @@ Hey welcome to words, numbers, and lists.
 
 Why is this called Words, Numbers, and Lists instead of python training?
 
-Great question. The idea is that you if you already know words (strings), numbers (integers, numeric), and lists (lists, dictionaries, sets), then you have 80% of the knowledge.
+Great question! The idea is that you if you already know words (strings), numbers (integers, numeric), and lists (lists, dictionaries, sets), then you have 80% of the knowledge.
 
 
 This course gives you the other 10% of python knowledge.
