@@ -1,4 +1,4 @@
-#a list of six number
+#a list of six numbers
 numbers = [10,11,12,13,14,15]
 
 #put different numbers in!
