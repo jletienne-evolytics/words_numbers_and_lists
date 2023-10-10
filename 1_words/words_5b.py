@@ -13,6 +13,7 @@ print(num_1 + num_2)
 
 
 #strings are words!
+#but you can perform arithemtic on numbers
 print(type(num_1))
 
 #printing multiple things at a time
