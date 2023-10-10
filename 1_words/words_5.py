@@ -11,7 +11,7 @@ num_2 = '5'
 print(num_1 + num_2)
 
 #i'm not really trying to trick you. obviously you know arithmetic and how to add 5 + 5
-#the quetsion is straightforward, do you think it will print 10 yes or no? if no what does it print? why? 
+#the question is straightforward, do you think it will print 10 yes or no? if no, what does it print? why? 
 
 
 #strings are words!
