@@ -9,7 +9,8 @@ import requests
 import pandas as pd
 
 def get_names():
-    names = pd.read_csv('raw_data/names.csv')
+    #names = pd.read_csv('raw_data/names.csv')
+    names = pd.read_csv('https://raw.githubusercontent.com/jletienne-evolytics/words_numbers_and_lists/main/9_putting_it_all_together/raw_data/names.csv')
     return names
 
 #define function, with Bella as default
