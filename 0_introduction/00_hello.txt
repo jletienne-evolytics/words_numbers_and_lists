@@ -20,16 +20,14 @@ How to create a virtual environment (5%)
     Should I use venv or conda?
         Venv has more support
         Conda gives you more control
-    Gonna be honest I just don't care. I personally use venv
+    Some people use conda, I personally use venv. Use whatever is comfortable for you!
 
     Why use a virtual environment?
-    Each project gets it's own house
+    Each project gets it's own house, you want to keep each projects dependencies and workflow bundled together
 
 How to install packages in your virtual environment (5%)
     For every project you install numpy (np) and pandas (pd)
     Do not deviate from these naming conventions. That's a hard rule!
-
-
 
 What we'll learn
     Words
@@ -39,7 +37,7 @@ What we'll learn
     Functions
     Dictionaries
     Functions
-    Loops (Specifically For Loops)
+    Loops (Specifically "For Loops")
     APIs (Requests)
     Debugging 
     Try/Except Error Handling
@@ -49,7 +47,7 @@ Beyond the scope of this learning
     Github
     GitHub SSH Keys
     Classes
-    Sets (idk you already know lists)
+    Sets (similar to lists, just distinct!)
     OAuth Authentication
     While Loops
     Advanced Error Logging
