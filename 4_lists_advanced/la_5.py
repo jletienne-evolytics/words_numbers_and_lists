@@ -11,6 +11,8 @@ print(full_list)
 print()
 print(len(full_list))
 
+
+### Very Important! Make sure you undertand what's going on below ###
 #list inception
 #print()
 #print(full_list[0])
