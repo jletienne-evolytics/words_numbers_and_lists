@@ -19,7 +19,7 @@ if __name__ == '__main__':
     #x = main
     y = main2()
 
-
+    #How would you make it print our "y" variable?
     print(x)
     #print(x + ' ' + y)
 
