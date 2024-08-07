@@ -3,9 +3,9 @@ print('hello world')
 print()
 
 #this is a variable
-name = 'Luke Youtsey'
+name = 'Luke Yahtzee'
 
-company = 'Evolytics'
+company = 'Concord'
 
 #print our output
 print(f'My name is {name}, I work for {company}')
