@@ -10,6 +10,8 @@ full_list = [numbers, fruits, drinks]
 #print()
 print(len(full_list))
 
+### Very Important! Make sure you undertand what's going on below ###
+### It's great to do multiple pass throughts ###
 #list inception
 #print()
 #print(full_list[2])
