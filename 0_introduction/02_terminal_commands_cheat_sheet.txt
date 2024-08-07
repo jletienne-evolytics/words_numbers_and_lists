@@ -14,13 +14,13 @@ Go back a directory (if needed)
 $ cd ..
 
 Open VS Code, Josh Prock Method (don't forget the period)
-Might as well install whatever it asks
+Follow the prompts! The installation tips are helpful
 $ code .
 
 Installing the virtual environment (Once when you create)
 $ virtualenv -p python3 venv
 
-Activate your virtual Environment (Everytime you begin development)
+Activate your virtual Environment (Everytime you open your computer to develop!)
 VS Code this automatically
 $ . venv/bin/activate
 
